@@ -1,15 +1,10 @@
 {
     "tags":{
-       "test":"sus",
-        "mog":"yes"
+       "test":"sus"
     },
     "perms":{
        "test":[
-          "ffe0706e-bdb2-4557-930b-9aa2d10bc383",
-           "sadawd"
-       ],
-       "mog":[
-          "1"
+          "ffe0706e-bdb2-4557-930b-9aa2d10bc383"
        ]
     }
 }
