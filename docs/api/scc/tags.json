@@ -1,10 +1,14 @@
 {
    "tags":{
-      "test":"&2[&bSkyclien&3'&bt&2]"
+      "SkyclientStaff":"&2[&bSkyclien&3'&bt Staff&2]",
+      "Booster":"&5[&dBooster&5]"
    },
    "perms":{
-      "test":[
+      "SkyclientStaff":[
          "ffe0706e-bdb2-4557-930b-9aa2d10bc383"
+      ],
+      "Booster":[
+         "cd911f52-886e-447b-9824-6d0de4baf25a"
       ]
    },
    "HpRanks":[
