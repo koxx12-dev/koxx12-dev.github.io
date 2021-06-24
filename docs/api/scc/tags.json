@@ -2,7 +2,8 @@
    "tags":{
       "SkyclientStaff":["&2[&bSkyclien&3'&bt Staff&2]","&2[&bSC&2]"],
       "Booster":["&5[&dBooster&5]","&5[&dB&5]"],
-      "ResourceCreator": ["&1[&9Resource Creator&1]","&1[&9RC&1]"]
+      "ResourceCreator": ["&1[&9Resource Creator&1]","&1[&9RC&1]"],
+      "nacrt":["a[nacrt]","a[nacrt]"]
    },
    "perms":{
       "SkyclientStaff":[
@@ -15,7 +16,10 @@
       ],
       "ResourceCreator": [
          "90a8ada254224c6593d20994ba5bbc8d"
-      ]   
+      ],
+      "nacrt":[
+         "66c86bdcff6641b9a874b8c0099b410e"
+      ]
    },
    "whitelist":false,
    "whitelisted":[
