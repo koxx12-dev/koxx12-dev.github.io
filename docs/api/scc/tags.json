@@ -3,7 +3,7 @@
       "SkyclientStaff":["&2[&bSkyclien&3'&bt Staff&2]","&2[&bSC&2]"],
       "Booster":["&5[&dBooster&5]","&5[&dB&5]"],
       "ResourceCreator": ["&1[&9Resource Creator&1]","&1[&9RC&1]"],
-      "nacrt":["a[nacrt]","a[nacrt]"]
+      "nacrt":["&a[nacrt]","&a[nacrt]"]
    },
    "perms":{
       "SkyclientStaff":[
