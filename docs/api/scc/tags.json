@@ -5,7 +5,7 @@
       "ResourceCreator": ["&1[&9Resource Creator&1]","&1[&9RC&1]"],
       "cool": ["&9[&5Cool&9]","&9[&5C&9]"],
       "nacrt":["&a[nacrt]","&a[nacrt]"],
-      "zord": ["&4&b[&5zordlan&4]","&4&b[&5zordlan&4]"],
+      "zord": ["&4[&5zordlan&4]","&4[&5zordlan&4]"],
       "micro": ["&5[Micro Is Awesome]","&5[Micro]"]
    },
    "perms": {
