@@ -6,7 +6,8 @@
       "cool": ["&9[&5Cool&9]","&9[&5C&9]"],
       "nacrt":["&a[nacrt]","&a[nacrt]"],
       "zord": ["&4[&5sandwich goddess&4]","&4[&5sandwich&4]"],
-      "micro": ["&b[&dAnime &9Girl &3Enthusiast&b]","&b[&6Weeb&b]"]
+      "micro": ["&b[&dAnime &9Girl &3Enthusiast&b]","&b[&6Weeb&b]"],
+      "lisena": ["[Pirate Queen]","[Pirate]"]
    },
    "perms": {
       "cringe": [
@@ -63,7 +64,8 @@
       ],
       "micro": [
          "ad371f407c8144c0bea559fdf019384f"
-      ]
+      ],
+      "lisena": ["f1dfad19e2024b199d5575a2b0851e3d"]
    },
    "whitelist":false,
    "whitelisted": [
