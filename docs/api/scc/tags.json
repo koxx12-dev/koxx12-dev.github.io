@@ -54,7 +54,9 @@
       ],
       "cool": [
          "796deff1f7d04a858908fe69141bfe90",
-         "16bfa19d62a44083801529911e3a9c09"
+         "16bfa19d62a44083801529911e3a9c09",
+         "697f26c6c9a04055a67c32aa0d25697e",
+         "e725ace37e2c414282cee1ea96678a49"
       ],
       "nacrt": [
          "66c86bdcff6641b9a874b8c0099b410e"
@@ -75,16 +77,5 @@
       "90a8ada254224c6593d20994ba5bbc8d",
       "ad371f407c8144c0bea559fdf019384f",
       "f1dfad19e2024b199d5575a2b0851e3d"
-   ],
-   "HpRanks": [
-      "[VIP]",
-      "[VIP+]",
-      "[MVP]",
-      "[MVP+]",
-      "[MVP++]",
-      "[HELPER]",
-      "[MOD]",
-      "[ADMIN]",
-      "[YOUTUBE]"
    ]
 }
