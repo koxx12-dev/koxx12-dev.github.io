@@ -7,7 +7,8 @@
       "nacrt":["&a[nacrt]","&a[nacrt]"],
       "micro": ["&b[&dAnime &9Girl &3Enthusiast&b]","&b[&6Weeb&b]"],
       "lisena": ["&6[&2Pirate Queen&6]","&6[&2Pirate&6]"],
-      "juni": ["&d[&2Bird Manager&d]","&d[&2birb&d]"]
+      "juni": ["&d[&2Bird Manager&d]","&d[&2birb&d]"],
+      "HellCastleSupport": ["&8[&4Hell&fCastle&8]","&8[&4H&fC&8]"]
    },
    "perms": {
       "cringe": [
@@ -68,7 +69,8 @@
          "ad371f407c8144c0bea559fdf019384f"
       ],
       "lisena": ["f1dfad19e2024b199d5575a2b0851e3d"],
-      "juni": ["58c2ae0e17734cd3bd530316367964c8"]
+      "juni": ["58c2ae0e17734cd3bd530316367964c8"],
+      "HellCastleSupport": ["bb3c62c3428340789779d1b0db7a7743"] //temp otherwise ppl will crash
    },
    "whitelist":false,
    "whitelisted": [
