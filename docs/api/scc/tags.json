@@ -8,7 +8,8 @@
       "micro": ["&b[&dAnime &9Girl &3Enthusiast&b]","&b[&6Weeb&b]"],
       "lisena": ["&6[&2Pirate Queen&6]","&6[&2Pirate&6]"],
       "juni": ["&d[&2Bird Manager&d]","&d[&2birb&d]"],
-      "HellCastleSupport": ["&8[&4Hell&fCastle&8]","&8[&4H&fC&8]"]
+      "HellCastleSupport": ["&8[&4Hell&fCastle&8]","&8[&4H&fC&8]"],
+      "HellCastleSupportCustomTag1": ["&8[&1FancyIdiot]","&8[&1Fi]"]
    },
    "perms": {
       "cringe": [
@@ -70,7 +71,8 @@
       ],
       "lisena": ["f1dfad19e2024b199d5575a2b0851e3d"],
       "juni": ["58c2ae0e17734cd3bd530316367964c8"],
-      "HellCastleSupport": ["bb3c62c3428340789779d1b0db7a7743"] //temp otherwise ppl will crash
+      "HellCastleSupport": ["bb3c62c3428340789779d1b0db7a7743","b020c808ee5242e895dc4cff9d1f70ad"],
+      "HellCastleSupportCustomTag1": ["48976b6a68c640529d078a6bebfaa4ef"]
    },
    "whitelist":false,
    "whitelisted": [
