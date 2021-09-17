@@ -9,8 +9,8 @@
       "lisena": ["&6[&2Pirate Queen&6]","&6[&2Pirate&6]"],
       "juni": ["&d[&2Bird Manager&d]","&d[&2birb&d]"],
       "HellCastleSupport": ["&8[&4Hell&fCastle&8]","&8[&4H&fC&8]"],
-      "HellCastleSupportCustomTag1": ["&8[&1FancyIdiot]","&8[&1Fi]"],
-      "HellCastleSupportCustomTag2": ["&8[&dPrincess]","&8[&dPrincess]"]
+      "HellCastleSupportCustomTag1": ["&8[&1FancyIdiot&8]","&8[&1Fi&8]"],
+      "HellCastleSupportCustomTag2": ["&8[&dPrincess&8]","&8[&dPrincess&8]"]
    },
    "perms": {
       "cringe": [
@@ -72,7 +72,13 @@
       ],
       "lisena": ["f1dfad19e2024b199d5575a2b0851e3d"],
       "juni": ["58c2ae0e17734cd3bd530316367964c8"],
-      "HellCastleSupport": ["bb3c62c3428340789779d1b0db7a7743","b020c808ee5242e895dc4cff9d1f70ad","c9385237ccc74843b2c6c19385bce60a","098272d87c774c4eb671b8741498f236","1635097238d146cf92b6d9ddc2e869c1"],
+      "HellCastleSupport": [
+         "bb3c62c3428340789779d1b0db7a7743",
+         "b020c808ee5242e895dc4cff9d1f70ad",
+         "c9385237ccc74843b2c6c19385bce60a",
+         "098272d87c774c4eb671b8741498f236",
+         "1635097238d146cf92b6d9ddc2e869c1"
+      ],
       "HellCastleSupportCustomTag1": ["48976b6a68c640529d078a6bebfaa4ef"],
       "HellCastleSupportCustomTag2": ["f0339ca93c854933af42a575e9a68d0e"]
    },
