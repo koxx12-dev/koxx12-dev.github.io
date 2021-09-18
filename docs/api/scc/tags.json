@@ -11,6 +11,8 @@
       "HellCastleSupport": ["&8[&4Hell&fCastle&8]","&8[&4H&fC&8]"],
       "HellCastleSupportCustomTag1": ["&8[&1FancyIdiot&8]","&8[&1Fi&8]"],
       "HellCastleSupportCustomTag2": ["&8[&dPrincess&8]","&8[&dPrincess&8]"],
+      "HellCastleSupportCustomTag3": ["&8[&b&6u/&bRayDeeUx&8]","&8[&b&6u/&bRayDeeUx&8]"],
+      "HellCastleSupportCustomTag4": ["&8[&aS&2t&eo&6n&9k&8]","&8[&2$$$&8]"],
       "HellCastleSupportCustomTagFeel": ["&8[&bTr&dan&fs&dgi&brl&8]","&8[&bF&de&fl&8]"]
    },
    "perms": {
@@ -83,6 +85,8 @@
       ],
       "HellCastleSupportCustomTag1": ["48976b6a68c640529d078a6bebfaa4ef"],
       "HellCastleSupportCustomTag2": ["f0339ca93c854933af42a575e9a68d0e"],
+      "HellCastleSupportCustomTag3": ["b43d74579da4408ba9fb51239022cec9"],
+      "HellCastleSupportCustomTag4": ["5d01fae2faa34dd188c595e9c433eefb"],
       "HellCastleSupportCustomTagFeel": ["b71c93bbd970475cb78e0d74ca899769"]
    },
    "whitelist":false,
