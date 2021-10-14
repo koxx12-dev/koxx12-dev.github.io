@@ -13,48 +13,15 @@
       "HellCastleSupportCustomTag2": ["&8[&dPrincess&8]","&8[&dPrincess&8]"],
       "HellCastleSupportCustomTag3": ["&8[&b&6u/&bRayDeeUx&8]","&8[&b&6u/&bRayDeeUx&8]"],
       "HellCastleSupportCustomTag4": ["&8[&aS&2t&eo&6n&9k&8]","&8[&2$$$&8]"],
-      "HellCastleSupportCustomTagFeel": ["&8[&bTr&dan&fs&dgi&brl&8]","&8[&bF&de&fl&8]"]
+      "HellCastleSupportCustomTagFeel": ["&8[&bTr&dan&fs&dgi&brl&8]","&8[&bF&de&fl&8]"],
+      "HellCastleSupportCustomTagSans": ["&1[&9Sans&1]","&1[&9Sans&1]"]
    },
    "perms": {
       "cringe": [
          "ffe0706ebdb24557930b9aa2d10bc383"
       ],
       "Booster": [
-         "cd911f52886e447b98246d0de4baf25a",
-         "b5e3a3dfc9b44b54bd6c6d2701105f90",
-         "b1c585fb500748f7bcebba4061852520",
-         "661d27ec0d4e4128809aa218697523b2",
-         "76d4ef1ac4364c508a2b95bdeb72b623",
-         "ed8893d9489b4b629aa1d3f0dda20e0a",
-         "ba57ff6fe6074eeb82e2c985b3cd44e0",
-         "bd082a55373e4305bee348b9060e16c9",
-         "178a4ecf4da24e989e56db0c3dc8a7f2",
-         "57e5a68768714faa843d0fe1f2ef5f30",
-         "6c0c19b0d2554f6eba6c8e4ab5895e7b",
-         "cbd980fe94564ded96139e473f27f003",
-         "7ff1645be4a04869a70cc940559f1e87",
-         "bb6fcb371dee4ca383f9ff31cca65cae",
-         "9d8c370647864b71881cc825b60280e8",
-         "d14ad8df6c77483d88e92fe8d933811e",
-         "b2df292763d14dbdbbffc6c24911b8b8",
-         "5a4ed0b8ee934c2194fa54c9d60e6869",
-         "67931c28035b45d0a336a17cec96f15a",
-         "08559992293a4c06a761fa0c06658e07",
-         "9bbf633a599d4772b773dfaa84e0e7d9",
-         "13f5a2a4f1484ed899647a15e2e16630",
-         "39030cf5d9e84312903a3a8c105f6171",
-         "ad95064f44bb4a219ee88f6e70e250f1",
-         "e725ace37e2c414282cee1ea96678a49",
-         "f18b80bbf92c4632bff137291e3f1960",
-         "fea7a842a28d4916b059ee286311f12e",
-         "091d2b8289d849d8aee78edb42ca90d5",
-         "ea168d06aa2345d58bdbc2d904219f74",
-         "b313cc6829e54f18a7fa7ef86aa2e4ff",
-         "5f2250d3bb124f9b929b3a4ba76ef19d",
-         "212b74dc24c84f179aed5242c791ac38",
-         "4f81785e57784b2088a00e26688a492e",
-         "db5f6a9ba3984dbab66033f3574d89cd",
-         "0e9360bac3c14a0eafd6cb2f5d9569b7"
+         "bd082a55373e4305bee348b9060e16c9"
       ],
       "ResourceCreator": [
          "90a8ada254224c6593d20994ba5bbc8d"
@@ -88,7 +55,8 @@
       "HellCastleSupportCustomTag2": ["f0339ca93c854933af42a575e9a68d0e"],
       "HellCastleSupportCustomTag3": ["b43d74579da4408ba9fb51239022cec9"],
       "HellCastleSupportCustomTag4": ["5d01fae2faa34dd188c595e9c433eefb"],
-      "HellCastleSupportCustomTagFeel": ["b71c93bbd970475cb78e0d74ca899769"]
+      "HellCastleSupportCustomTagFeel": ["b71c93bbd970475cb78e0d74ca899769"],
+      "HellCastleSupportCustomTagSans": ["0e9360bac3c14a0eafd6cb2f5d9569b7"]
    },
    "whitelist":false,
    "whitelisted": [
