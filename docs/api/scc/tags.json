@@ -8,6 +8,7 @@
       "micro": ["&b[&dAnime &9Girl &3Enthusiast&b]","&b[&6Weeb&b]"],
       "lisena": ["&6[&2Pirate Queen&6]","&6[&2Pirate&6]"],
       "juni": ["&d[&2Bird Manager&d]","&d[&2birb&d]"],
+      "brian": ["&4[&cProfessionalism&4]","&4[&cbad&4]"],
       "HellCastleSupport": ["&8[&4Hell&fCastle&8]","&8[&4H&fC&8]"],
       "HellCastleSupportCustomTag1": ["&8[&4ppAdmin&8]","&8[&4ppA&8]"],
       "HellCastleSupportCustomTag2": ["&8[&dPrincess&8]","&8[&dPrincess&8]"],
@@ -32,8 +33,7 @@
          "796deff1f7d04a858908fe69141bfe90",
          "16bfa19d62a44083801529911e3a9c09",
          "697f26c6c9a04055a67c32aa0d25697e",
-         "e725ace37e2c414282cee1ea96678a49",
-         "1f2db798cf95470d9a99da66451eebc8"
+         "e725ace37e2c414282cee1ea96678a49"
       ],
       "nacrt": [
          "66c86bdcff6641b9a874b8c0099b410e"
@@ -43,6 +43,7 @@
       ],
       "lisena": ["f1dfad19e2024b199d5575a2b0851e3d"],
       "juni": ["58c2ae0e17734cd3bd530316367964c8"],
+      "brian": ["1f2db798cf95470d9a99da66451eebc8"],
       "HellCastleSupport": [
          "cfb84b032a244fdb896e68d5e8ad8f15",
          "bb3c62c3428340789779d1b0db7a7743",
