@@ -5,6 +5,7 @@
       "ResourceCreator": ["&1[&9Resource Creator&1]","&1[&9RC&1]"],
       "cool": ["&9[&5Cool&9]","&9[&5C&9]"],
       "nacrt":["&a[nacrt]","&a[nacrt]"],
+      "brian": ["&4[&cProfessionalism&4]","&4[&cBad&4]"],
       "micro": ["&b[&dAnime &9Girl &3Enthusiast&b]","&b[&6Weeb&b]"],
       "lisena": ["&6[&2Pirate Queen&6]","&6[&2Pirate&6]"],
       "juni": ["&d[&2Bird Manager&d]","&d[&2birb&d]"],
@@ -20,6 +21,9 @@
       "cringe": [
          "ffe0706ebdb24557930b9aa2d10bc383"
       ],
+      "brian": [
+         "1f2db798cf95470d9a99da66451eebc8"
+      ],
       "Booster": [
          "bd082a55373e4305bee348b9060e16c9",
          "1bb9f39948c7499eb21b23b8bad56f6e",
@@ -32,8 +36,7 @@
          "796deff1f7d04a858908fe69141bfe90",
          "16bfa19d62a44083801529911e3a9c09",
          "697f26c6c9a04055a67c32aa0d25697e",
-         "e725ace37e2c414282cee1ea96678a49",
-         "1f2db798cf95470d9a99da66451eebc8"
+         "e725ace37e2c414282cee1ea96678a49"
       ],
       "nacrt": [
          "66c86bdcff6641b9a874b8c0099b410e"
